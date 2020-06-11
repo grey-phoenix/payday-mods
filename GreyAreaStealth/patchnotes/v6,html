@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<title>GreyAreaStealth v5 - Patch Notes</title>
+<style type="text/css">
+body, html {
+    background-color: #cfcfcf;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+#mainContainer {
+    background-color: #ffffff;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    width: 900px;
+    border-color: #afafaf;
+    border-style: solid;
+    border-width: 1px;
+    padding: 40px;
+}
+</style>
+</head>
+<body>
+  <div id="mainContainer" class="markdown-body">
+    1. Introduce bodybag mod option. Increases number of bodybag case deploayables to 30 when "Cleaner" skill is in use.
+    2. Update title and description of CableTie mod option to be more accurate. Sets number of cable ties to 100 when "Forced Friendship" skill is in use.
+  </div>
+</body>
+</html>
